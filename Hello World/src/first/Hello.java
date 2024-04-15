@@ -7,5 +7,5 @@ public class Hello {
         System.out.println("こんにちは、世界！");
 
     }
-
+  //フェッチのテスト（残ってたら失敗）
 }
